@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433769943258",
+    "project_id": "registrasi-peserta",
+    "storage_bucket": "registrasi-peserta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433769943258:android:fbac4f7382d7e5d17755e3",
+        "android_client_info": {
+          "package_name": "registrasi.pendaftaran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433769943258-j1p9ivmqj2goschachkeibn09pj9egav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO8xocU2u4mxlMD5Pu60Y4YhpUaMe7Tac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433769943258-j1p9ivmqj2goschachkeibn09pj9egav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
